@@ -50,7 +50,7 @@ public class Tetris extends JFrame implements KeyListener {
             this.tetromino_index = 0;
             this.currTetromino = this.tetromino.coords[tetromino_index];
 
-            x = 3;
+            x = 4;
             y = -2;
         }
 
