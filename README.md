@@ -1,2 +1,3 @@
 # Tetris-Game
-tetris game written in java
+a simple tetris game written in java
+
